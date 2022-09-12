@@ -39,7 +39,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@sravanvarala] - feel free to contact me!
+Created by [@varalasravan] - feel free to contact me!
 
 
 <!-- Optional -->
